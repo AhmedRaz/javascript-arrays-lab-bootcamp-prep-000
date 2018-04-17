@@ -7,4 +7,5 @@ function destructivelyAppendKitten(name)  {
   
 }
 
+destructivelyAppendKitten("Ralph")
 console.log(kittens)
